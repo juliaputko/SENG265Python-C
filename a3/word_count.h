@@ -9,7 +9,7 @@
 #define OPEN_ER 2
 #define MEM_ER 3
 #define MAX_LINES 1000
-char *lines;  //in assignment 3 will need to use realloc to reassign memory 
+char *lines;  
 int   num_lines;
 
 typedef struct node_lf {
